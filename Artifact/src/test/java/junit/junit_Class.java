@@ -31,6 +31,8 @@ public class junit_Class {
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
 		System.out.println("Hi1111");
+		
+
 
 	}
 
