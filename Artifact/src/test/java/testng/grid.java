@@ -36,7 +36,9 @@ public class grid {
 		WebDriver driver;
 			// System.setProperty("webdriver.chrome.driver", "D:\\E drive data 3-4-2019\\Tools\\sel\\BINARIES\\chromedriver_win32\\chromedriver.exe");
 		 //driver =new ChromeDriver();
-	           System.out.println("test1");
+		
+		 //driver =new ChromeDriver();
+		       System.out.println("test1");
 			 baseUrl="http://www.newtours.demoaut.com/";
 			 nodeUrl="http://10.0.26.150:5566/wd/hub";
 			 
